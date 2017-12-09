@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="40" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="common" tilewidth="16" tileheight="16">
+  <image source="common.png" trans="ffffff" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="4097" name="map_a" tilewidth="16" tileheight="16">
+  <image source="map_a.png" trans="ffffff" width="1024" height="1024"/>
+ </tileset>
+ <layer name="event" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt2EsKgCAURuF2YAvutTJrZZVSgdTQpPzv+eAOahAeJ5LeNb/Sh/UMYcbcdbXPV94dYwW92ujVRq+2Ur3Xd3On1LqsoFcbvdro1UavNnq1We7dbt1d8jxXvCfx/m857wDf+o+pbaygVxu92qz3rmLt8eydkqavz0HOXgAAoGgHCv2lIw==
+  </data>
+ </layer>
+ <layer name="back" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmUtOwzAQhsuKV4GUmHVOQwpbDtWAhITUG3XRIpQAUk9EsjCaTMf22MG1E7P4lHTq+M8/fkSZrPLZbKXguWWT9XmLPFZp/JiYot/XhZkYfHBiHC8NA9jnN6EbS4zjpczVPLTciHGx1PgpHdZv7JjW7z3BVPzqvKUyvia/t0W/v3XBi3H2Su4zgavZxYbO5yfU577gxTh7JfeZwNXcF+Hms2mfND0XQs3nIWvpVNhrngm/69fn/myaWyE0fY6vy9wKoelT+0L0ObbfY2qfZzQ+NXF+cXus3Tjq13lfu+vrMaPB7f5Kc8XoB2vPHffLS3HY10tG41PT1m+N8v3Znn/lh0ec54YY34+MxqTJ0VVp2vrtcgbzfdWeX4vDI87znMg11y/W5OiqNG39NiDfqhzDXNfgGle/UFM3tvKo03RZvzJ3qhzDXMu21Fri+oWaurGVR50m9jf0PWZsDH2PGRvLxNi1vCdElTC/e3QE93IMPyn43QLk/9vFNKD8bERanNylRZnb1Qxj+RYIYza1UNvaTmhvVIxTs+rawd+mWt6Y/Kq82NTypN9YvvXCGNcHbNddh+ta2G/ob7sqqJoV5aXK+2OHsX13DgXnPqt/v8Z+XOukPqFqOGviPqXfHxlpKJ0=
+  </data>
+ </layer>
+ <layer name="center" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmUsOgjAQhrsRNCwM6IU0URc+7uR7YTiVcWWMV3IIkpjaQgPTJ/Ml/6YzdDoDtMmUsXoGmVgRKJbYbPp1ZZGJtQStJDabfhjkKWMJN5Ywt8Zu6f+62/JCnEsXTw/WSBCEe2DslblH+w/GXunDmdBnomn7Z0cdniUIUwwF32ls8dvVGbvIVfRfFv+57rgydMc2jazGfWcGNZkj1UV1LhsxK/bge0CKrTqXjZgE4TvvtFToVHmOs1KhU5fnGuqwAW1BO8G7b7Lb8lOdp+A4Yez01Rl0gVpca957k92WX2Xn8+G5/4w9AsiXz4eH8g07X4KocPU8wsbV+25duHrfbQKX7rvbwPe1fO5jNeUi6mv52rsLKRcTYPbRdKK6zg8cUHQc
+  </data>
+ </layer>
+ <layer name="front" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt17ENgDAMBVFvEAiDhZWBAVgJCmgoozSc76TfYz0pEm2JWO/Ra8+d5d6U4N73zqYvMn3Z6Tu2rUbsnTvq+O/Rl52+7PRlpy87fdnpyy67b++/zF+W3fec2fv6lsqe7zM7fdnpy05fdvqy05edvuyy+l5/P51p
+  </data>
+ </layer>
+</map>

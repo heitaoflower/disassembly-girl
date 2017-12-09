@@ -1,0 +1,4 @@
+#id#level#name#resourceID#STR#VIT #DEX#SPD#weaponA#weaponB#weaponC#skillA#skillB#skillC
+#id#级别#名字#角色资源#力量#体力#灵巧#速度#武器A#武器B#武器C#技能A#技能B#技能C
+#int#int#string#string#int#int#int#int#int#int#int#int#int#int
+1#0#Lily#001#0#0#0#0#1#0#0#0#0#0
