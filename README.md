@@ -9,4 +9,4 @@ This is a tiny but refined indie game, it was developed with unity3d 5.4 version
 
 ### Screenshot
 
-![Screenshot](http://i.imgur.com/foYz3aN.png)
+![Screenshot](snapshots/1.png)
